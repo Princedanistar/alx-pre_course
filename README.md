@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 My alx-pre_course Readme
 =======
-My first Readme
-I am Prince Danistar
-But you can call me Danistar
+My first Readme, I'm quite excited,
+I am Prince Danistar,
+But you can call me Danistar,
 I have a dream of being an expert programmer
 And by God's grace, a software engineer
 I'll love to delve into finance and create AI forex traders
